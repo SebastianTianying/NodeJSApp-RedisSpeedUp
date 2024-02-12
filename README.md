@@ -1,6 +1,7 @@
 # NodeJSApp-RedisSpeedUp
 
-This project is a Node.js application that leverages Redis for caching to significantly improve performance. It is specifically designed to showcase how Redis can be integrated with a Node.js backend to accelerate data retrieval processes. \
+This project is a Node.js application that leverages Redis for caching to significantly improve performance. It is specifically designed to showcase how Redis can be integrated with a Node.js backend to accelerate data retrieval processes. 
+
 For demonstration purposes, the application fetches placeholder photos from the JSONPlaceholder's Photos endpoint, a free online REST API that provides dummy data suitable for testing and prototyping web applications.
 
 ## Getting Started
