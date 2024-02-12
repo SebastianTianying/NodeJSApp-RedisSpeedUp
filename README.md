@@ -1,6 +1,6 @@
 # NodeJSApp-RedisSpeedUp
 
-This project is a Node.js application that utilizes Redis for caching to enhance performance. It serves as an example of integrating Redis with a Node.js backend.
+This project is a Node.js application that utilizes Redis for caching to enhance performance. It demonstrates integrating Redis with a Node.js backend for faster data retrieval.
 
 ## Getting Started
 
