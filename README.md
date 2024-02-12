@@ -1,6 +1,6 @@
 # NodeJSApp-RedisSpeedUp
 
-This project is a Node.js application that utilizes Redis for caching to enhance performance, specifically designed to demonstrate the integration of Redis with a Node.js backend for faster data retrieval. This application uses the JSONPlaceholder's Photos endpoint (https://jsonplaceholder.typicode.com/photos) to retrieve placeholder photos for demonstration purposes.
+This project is a Node.js application that leverages Redis for caching to significantly improve performance. It is specifically designed to showcase how Redis can be integrated with a Node.js backend to accelerate data retrieval processes. For demonstration purposes, the application fetches placeholder photos from the JSONPlaceholder's Photos endpoint, a free online REST API that provides dummy data suitable for testing and prototyping web applications.
 
 ## Getting Started
 
@@ -70,6 +70,11 @@ Similar for query with specific parameters:
 
 Significant improvement in process time with Redis!
 <img width="912" alt="image" src="https://github.com/SebastianTianying/NodeJSApp-RedisSpeedUp/assets/66150985/a01a1013-63e8-4fdb-abcd-572b8506c977">
+
+### Data Sources
+This application fetches data from the following external API:
+
+JSONPlaceholder Photos API: The application uses the JSONPlaceholder's Photos endpoint (https://jsonplaceholder.typicode.com/photos) to retrieve placeholder photos for demonstration purposes.
 
 ### Acknowledgments
 
