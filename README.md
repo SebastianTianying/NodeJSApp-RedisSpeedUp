@@ -28,7 +28,7 @@ npm install --save-dev snowpack concurrently nodemon
 npm install bootstrap
 ```
 
-Running the Application
+Running the Application\
 Start the Redis server:
 ```bash
 redis-server
@@ -43,16 +43,17 @@ redis-cli
 ```
 
 ### Built With
-Node.js - The JavaScript runtime used.
-Express - The web application framework.
-Redis - The in-memory data structure store used as a database and cache.
-Axios - Promise-based HTTP client for making HTTP requests.
-Bootstrap - Frontend framework for building responsive, mobile-first sites.
+Node.js - The JavaScript runtime used.\
+Express - The web application framework.\
+Redis - The in-memory data structure store used as a database and cache.\
+Axios - Promise-based HTTP client for making HTTP requests.\
+Bootstrap - Frontend framework for building responsive, mobile-first sites.\
+
 
 ### Development Tools
-Snowpack - A modern, lightweight build tool for faster development builds.
-Concurrently - A utility that manages multiple processes concurrently.
-Nodemon - A tool that automatically restarts the node application when file changes in the directory are detected.
+Snowpack - A modern, lightweight build tool for faster development builds.\
+Concurrently - A utility that manages multiple processes concurrently.\
+Nodemon - A tool that automatically restarts the node application when file changes in the directory are detected.\
 
 ### DEMO
 Initial Query: cache missed, long query time
