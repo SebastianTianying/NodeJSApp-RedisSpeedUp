@@ -73,7 +73,7 @@ Significant improvement in process time with Redis!
 
 ### Acknowledgments
 
-This project follows tutorials from Web Dev Simplified - Create Your Own Postman and Redis Crash Course.
+Certain parts in this project follows tutorials from Web Dev Simplified - Create Your Own Postman and Redis Crash Course.
 
 
 
