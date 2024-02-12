@@ -57,13 +57,16 @@ Nodemon - A tool that automatically restarts the node application when file chan
 ### DEMO
 Initial Query: cache missed, long query time
 <img width="919" alt="image" src="https://github.com/SebastianTianying/NodeJSApp-RedisSpeedUp/assets/66150985/add319d8-6092-4888-96a1-6c796c835a77">
-Second Query: cache hit, super fast query time! 
+
+Second Query: cache hit, super fast query time with the Redis! 
 <img width="919" alt="image" src="https://github.com/SebastianTianying/NodeJSApp-RedisSpeedUp/assets/66150985/5355b1bf-6e90-45be-a018-d797f497f87a">
+
 Console logging cache miss or hit after each query request with Redis
 <img width="777" alt="image" src="https://github.com/SebastianTianying/NodeJSApp-RedisSpeedUp/assets/66150985/6a061945-1e8e-4c50-bcc7-c97140681456">
 
 Similar for query with specific parameters:
 <img width="913" alt="image" src="https://github.com/SebastianTianying/NodeJSApp-RedisSpeedUp/assets/66150985/e902ad43-1fad-4a92-9b0c-f2e00cf02c5f">
+
 Significant improvement in process time with Redis!
 <img width="912" alt="image" src="https://github.com/SebastianTianying/NodeJSApp-RedisSpeedUp/assets/66150985/a01a1013-63e8-4fdb-abcd-572b8506c977">
 
