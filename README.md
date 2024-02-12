@@ -22,26 +22,22 @@ npm init -y
 npm install axios express cors redis
 
 # Install development dependencies
-npm install --save-dev snowpack
-
-npm install --save-dev concurrently
-
-npm install --save-dev nodemon
+npm install --save-dev snowpack concurrently nodemon
 
 # Install Bootstrap for frontend styling
 npm install bootstrap
 ```
-Running the Application
-Once the installation is complete, you can connect to the redis server and start the application with:
 
+Running the Application
+Start the Redis server:
 ```bash
 redis-server
-
+```
+Then start the application:
+```bash
 npm start
 ```
-
-Connect to the Redis Server
-
+Connect to the Redis server using the CLI:
 ```bash
 redis-cli
 ```
