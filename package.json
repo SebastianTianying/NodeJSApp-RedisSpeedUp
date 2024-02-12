@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "snowpack dev"
+    "start": "concurrently \"snowpack dev\" \"nodemon server-redis.js\""
   },
   "keywords": [],
   "author": "",
@@ -22,6 +22,8 @@
     "redis": "^4.6.13"
   },
   "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.3",
     "snowpack": "^3.2.2"
   }
 }
