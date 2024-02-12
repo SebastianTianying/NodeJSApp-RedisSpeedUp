@@ -30,7 +30,7 @@ npm install --save-dev snowpack concurrently nodemon
 npm install bootstrap
 ```
 
-### Running the Application\
+### Running the Application
 Start the Redis server:
 ```bash
 redis-server
