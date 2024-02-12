@@ -1,0 +1,27 @@
+{
+  "name": "postman-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@codemirror/basic-setup": "^0.18.2",
+    "@codemirror/commands": "^0.18.2",
+    "@codemirror/lang-json": "^0.18.0",
+    "@codemirror/view": "^0.18.16",
+    "axios": "^1.6.7",
+    "bootstrap": "^5.3.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "pretty-bytes": "^5.6.0",
+    "redis": "^4.6.13"
+  },
+  "devDependencies": {
+    "snowpack": "^3.2.2"
+  }
+}
