@@ -1,4 +1,4 @@
-# NodeJSApp-RedisSpeedUp
+# Redis-Caching-For-NodeJS
 
 This project is a Node.js application that leverages Redis for caching to significantly improve performance. It is specifically designed to showcase how Redis can be integrated with a Node.js backend to accelerate data retrieval processes. 
 
